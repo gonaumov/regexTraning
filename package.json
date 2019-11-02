@@ -1,0 +1,23 @@
+{
+  "name": "regextraning",
+  "version": "1.0.0",
+  "description": "This is not a nodejs project. I am adding this in order to have marp-cli installed. I will use it to convert markdown files to presentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonaumov/regexTraning.git"
+  },
+  "author": "Georgi Naumov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonaumov/regexTraning/issues"
+  },
+  "homepage": "https://github.com/gonaumov/regexTraning#readme",
+  "private": true,
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.15.0"
+  }
+}
